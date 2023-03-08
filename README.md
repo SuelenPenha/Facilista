@@ -9,11 +9,10 @@
 ## 💻 Projeto  
 
 O projeto final case consiste no grupo decidir qual será o MVP utilizado nessa fase, montar um site com os conteúdos funcionais e
-as funcionalidades deve ser consultadas de uma API.
+as funcionalidades deve ser consultadas de uma API. 
+Nosso site tem o intuito de facilitar a organização, otimizando o tempo na realização de compras, obtendo assim mais prática ao fazer suas compras.
 
 ---
-## 🔨 Funcionalidades
-será atualizado
 
 ## ⚙ Servidor 
 
