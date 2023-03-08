@@ -14,3 +14,7 @@ as funcionalidades deve ser consultadas de uma API.
 ---
 ## 🔨 Funcionalidades
 será atualizado
+
+## ⚙ Servidor 
+
+link: https://github.com/jonathanfalcao/FaciListas-API
